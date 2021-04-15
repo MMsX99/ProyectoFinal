@@ -1,2 +1,3 @@
 # ProyectoFinal
-editando desde github
+Editando desde github
+Editado desde el pc
